@@ -1,6 +1,6 @@
 # if, elif e else
 
-age = 12
+age = int(input("Qual a sua idade? ")) # input() para entrada de dados
 
 if age >= 18:
     print("Maior de idade")
